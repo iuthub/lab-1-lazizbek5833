@@ -1,0 +1,21 @@
+* Rebuilt URL to: example.com/
+*   Trying 93.184.216.34...
+* TCP_NODELAY set
+* Connected to example.com (93.184.216.34) port 80 (#0)
+> GET / HTTP/1.1
+> Host: example.com
+> User-Agent: curl/7.55.1
+> Accept: */*
+>
+< HTTP/1.1 200 OK
+< Cache-Control: max-age=604800
+< Content-Type: text/html; charset=UTF-8
+< Date: Fri, 01 Mar 2019 07:17:27 GMT
+< Etag: "1541025663+gzip+ident"
+< Expires: Fri, 08 Mar 2019 07:17:27 GMT
+< Last-Modified: Fri, 09 Aug 2013 23:54:35 GMT
+< Server: ECS (dcb/7F3B)
+< Vary: Accept-Encoding
+< X-Cache: HIT
+< Content-Length: 1270
+<
